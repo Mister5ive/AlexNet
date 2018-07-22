@@ -1,7 +1,7 @@
 # tensorflow_AlexNet
-Hand-Written numeral recognition processed by AlexNet that implemented by tensorflow
-Input Hand-Written numeral achieved by opencv that use python api.
-Just as my personal study.
+Hand-Written numeral recognition processed by AlexNet that implemented by tensorflow.<br>
+Input Hand-Written numeral achieved by opencv that use python api.<br>
+Just as my personal study.<br>
 
 * [AlexNet.py](https://github.com/Mister5ive/tensorflow_AlexNet/blob/master/AlexNet.py): Create AlexNet model and train it by MNIST,then save the model.
 * [Model_Restrore.py](https://github.com/Mister5ive/tensorflow_AlexNet/blob/master/Model_Restore.py): Restore AlexNet model and process the input.
